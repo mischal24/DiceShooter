@@ -1,4 +1,4 @@
-local vec2 = require ( "vec2" )
+local vec2 = require ( "modules/vec2" )
 
 local player_speed = 3
 

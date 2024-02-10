@@ -1,4 +1,4 @@
-local player = require ( "player" )
+local player = require ( "objects/player" )
 
 function love.load()
 end
